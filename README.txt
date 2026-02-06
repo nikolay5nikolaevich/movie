@@ -41,5 +41,5 @@
 - Fetch API
 - REST API (OMDb API)
 
-## Структура проекта
+
 
